@@ -1,4 +1,5 @@
 Aero Insight
+
 Planning air travel involves uncertainty in ticket pricing, leading to difficulty in budgeting and decision-making for travellers.
  This project aims to build a machine-learning model that predicts flight ticket prices depending on different variables that possibly impact the fare.
 Our approach is to utilize historical flight data and machine learning algorithms to predict future prices and Identify key determinants impacting flight costs.
